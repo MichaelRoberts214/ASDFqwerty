@@ -1,5 +1,7 @@
 # Asdfqwerty
 
+The purpose of this repository is to practice using Ember.js.
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
